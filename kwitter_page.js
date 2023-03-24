@@ -1,4 +1,4 @@
-//YOUR FIREBASE LINKS
+
 const firebaseConfig = {
   apiKey: "AIzaSyBbfdPoMDWk_RbESVzldbvI74sulBfUTPo",
   authDomain: "kwitter123-2e497.firebaseapp.com",
@@ -7,7 +7,6 @@ const firebaseConfig = {
   messagingSenderId: "935533577656",
   appId: "1:935533577656:web:ebef6c8afcf6b1a9f37b4d"
 };
-
 firebase.initializeApp(firebaseConfig);
 
 user_name = localStorage.getItem("user_name");
