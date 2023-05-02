@@ -1,11 +1,10 @@
-
 const firebaseConfig = {
-  apiKey: "AIzaSyBbfdPoMDWk_RbESVzldbvI74sulBfUTPo",
-  authDomain: "kwitter123-2e497.firebaseapp.com",
-  projectId: "kwitter123-2e497",
-  storageBucket: "kwitter123-2e497.appspot.com",
-  messagingSenderId: "935533577656",
-  appId: "1:935533577656:web:ebef6c8afcf6b1a9f37b4d"
+  apiKey: "AIzaSyB1faTxwMWPvgsM0jrJ8v4vPBY-6Fq90rE",
+  authDomain: "kwiter121-b8285.firebaseapp.com",
+  projectId: "kwiter121-b8285",
+  storageBucket: "kwiter121-b8285.appspot.com",
+  messagingSenderId: "947301333447",
+  appId: "1:947301333447:web:1ab3eb01b5e3af697341e2"
 };
 firebase.initializeApp(firebaseConfig);
 
