@@ -6,6 +6,7 @@ const firebaseConfig = {
   messagingSenderId: "947301333447",
   appId: "1:947301333447:web:1ab3eb01b5e3af697341e2"
 };
+
 firebase.initializeApp(firebaseConfig);
 
 user_name = localStorage.getItem("user_name");
