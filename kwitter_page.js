@@ -1,12 +1,12 @@
 const firebaseConfig = {
   apiKey: "AIzaSyB1faTxwMWPvgsM0jrJ8v4vPBY-6Fq90rE",
   authDomain: "kwiter121-b8285.firebaseapp.com",
+  databaseURL: "https://kwiter121-b8285-default-rtdb.firebaseio.com",
   projectId: "kwiter121-b8285",
   storageBucket: "kwiter121-b8285.appspot.com",
   messagingSenderId: "947301333447",
   appId: "1:947301333447:web:1ab3eb01b5e3af697341e2"
 };
-
 firebase.initializeApp(firebaseConfig);
 
 user_name = localStorage.getItem("user_name");
